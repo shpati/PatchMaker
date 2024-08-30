@@ -1,0 +1,6 @@
+[PatchMaker datafile]
+
+The target file is: 1.txt
+
+Locations In Mod
+$0000000B 69 61
